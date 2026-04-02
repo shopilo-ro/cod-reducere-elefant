@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-elefant",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Elefant de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-elefant",
+    "voucher-elefant",
+    "cupon-elefant",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/elefant.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-elefant.git"
+  }
+}
